@@ -4,7 +4,7 @@ Hi, I'm Lilian! 👋
 <!-- Student at the University of Utah
 --------------------------------- -->
 
-I'm a Senior at the University of Utah, majoring in Computer Science. Eager to apply my knowledge in the field, I'm looking forward to gaining hands-on experience through internships and projects as well as building a strong foundation in computer science concepts and programming languages. I am excited to contribute to the tech industry and make a positive impact through my work.
+I'm a Developer at Symliv and a Graduate of the University of Utah, majoring in Computer Science. Eager to apply my knowledge in the field, I'm looking forward to gaining hands-on experience through work opportunities, projects as well as building a strong foundation in computer science concepts and programming languages. I am excited to contribute to the tech industry and make a positive impact through my work.
 <br><br>
 <!-- ### Social Links:
 <p align="center">  -->
